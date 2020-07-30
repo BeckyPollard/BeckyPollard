@@ -3,10 +3,12 @@
 # Hello, I'm Becky! 🤖 🌸 👻 ⚰️
 
 ### Who is she?
-As a brief summary: I'm based in Toronto, I love action/fantasy role-playing games, am an enthusiast about many topics of thanatology, an advocate for the benefits of a good night's sleep, the owner of a [charismatic cat](http://beckypollard.com/assets/images/creature.jpg), and a friend with a flair for making tech feel human.
+I've been a web developer by trade since 2018, with a passion for front end programming. I love action/fantasy role-playing games, am an enthusiast about many topics of thanatology, an advocate for the benefits of a good night's sleep, the owner of a [charismatic cat](http://beckypollard.com/assets/images/creature.jpg), and a friend with a flair for making tech feel human.
 
+<!--
 ### What does she do?
 I'm a web developer by trade, with a passion for front end programming. I've been working professionally in the tech industry as a developer since 2018. Every day I continue to learn, teach, and explore all the wonders of development. I hope together we can experience the joys of coding.
+-->
 
 ### What are some of her skills?
 ![HTML](https://img.shields.io/static/v1?logo=html5&logoColor=FD92AF&label=&message=HTML5&labelColor=333&color=FD92AF&style=for-the-badge)
@@ -17,9 +19,8 @@ I'm a web developer by trade, with a passion for front end programming. I've bee
 ![REACT](https://img.shields.io/static/v1?logo=REACT&logoColor=FD92AF&label=&message=REACT&labelColor=333&color=FD92AF&style=for-the-badge)
 ![Webpack](https://img.shields.io/static/v1?logo=webpack&logoColor=FD92AF&label=&message=WEBPACK&labelColor=333&color=FD92AF&style=for-the-badge)
 ![GIT](https://img.shields.io/static/v1?logo=GIT&logoColor=FD92AF&label=&message=GIT&labelColor=333&color=FD92AF&style=for-the-badge)
-<!--![Mentoring](https://img.shields.io/static/v1?logo=M&logoColor=FD92AF&label=💡&message=Mentoring&labelColor=333&color=FD92AF&style=for-the-badge)-->
-![More skills available](https://img.shields.io/static/v1?label=&message=and%20more...%20%28lets%20talk%29&labelColor=333&color=FD92AF&style=for-the-badge)
-
+<!--![Mentoring](https://img.shields.io/static/v1?logo=M&logoColor=FD92AF&label=💡&message=Mentoring&labelColor=333&color=FD92AF&style=for-the-badge)
+![More skills available](https://img.shields.io/static/v1?label=&message=and%20more...%20%28lets%20talk%29&labelColor=333&color=FD92AF&style=for-the-badge)-->
 ### What is she currently studying?
 ![Studying React](https://img.shields.io/static/v1?logo=react&logoColor=FD92AF&label=&message=REACT&labelColor=333&color=FD92AF&style=for-the-badge)
 ![Studying Gatsby](https://img.shields.io/static/v1?logo=GATSBY&logoColor=FD92AF&label=&message=GATSBY&labelColor=333&color=FD92AF&style=for-the-badge)
