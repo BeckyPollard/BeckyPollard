@@ -26,8 +26,12 @@ I'm a web developer by trade, with a passion for front end programming. I've bee
 ![Studying Gatsby](https://img.shields.io/static/v1?logo=GATSBY&logoColor=FD92AF&label=&message=GATSBY&labelColor=333&color=FD92AF&style=for-the-badge)
  
 ### What else do I need to know?
+<img src="https://media.giphy.com/media/B4OVvY3CVNN0Q/giphy.gif" width="275px">
 
+
+<!--
 ![Bob Ross: Talent is a pursued interest. Anything that you're willing to practice, you can do.](https://media.giphy.com/media/B4OVvY3CVNN0Q/giphy.gif)
+-->
  
  <!--
  ![Visits Badge](https://badges.pufler.dev/visits/BeckyPollard/BeckyPollard)
