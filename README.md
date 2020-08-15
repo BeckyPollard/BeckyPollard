@@ -1,7 +1,7 @@
 # Hello, I'm Becky! ![Becky Pollard is available to hire](https://img.shields.io/static/v1?label=⭐️&message=CURRENTLY%20AVAILABLE%20FOR%20HIRE%20⭐️&labelColor=40c463&color=40c463)
 
 ### Who is she?
-I've been a web developer by trade since 2018, with a passion for front end programming. I love action/fantasy role-playing games, am an enthusiast about many topics of thanatology, an advocate for the benefits of a good night's sleep, the owner of a [charismatic cat](http://beckypollard.com/assets/images/creature.jpg), and a friend with a flair for making tech feel human.
+I've been a web developer by trade since 2018, with a passion for front end programming. I love action/fantasy role-playing games, am an enthusiast about many topics of thanatology, an advocate for the benefits of a good night's sleep, the owner of a [black cat](http://becky.dev/assets/images/creature.jpg), and a friend with a flair for making tech feel human.
 
 <!--
 ### What does she do?
