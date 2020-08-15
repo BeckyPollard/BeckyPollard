@@ -15,6 +15,7 @@ I'm a web developer by trade, with a passion for front end programming. I've bee
 ![CSS3](https://img.shields.io/static/v1?logo=css3&logoColor=FD92AF&label=&message=CSS3&labelColor=333&color=FD92AF&style=for-the-badge)
 ![SCSS](https://img.shields.io/static/v1?logo=SASS&logoColor=FD92AF&label=&message=SCSS&labelColor=333&color=FD92AF&style=for-the-badge)
 ![JAVASCRIPT](https://img.shields.io/static/v1?logo=JAVASCRIPT&logoColor=FD92AF&label=&message=JAVASCRIPT&labelColor=333&color=FD92AF&style=for-the-badge)
+
 ![jQUERY](https://img.shields.io/static/v1?logo=jQUERY&logoColor=FD92AF&label=&message=jQUERY&labelColor=333&color=FD92AF&style=for-the-badge)
 ![REACT](https://img.shields.io/static/v1?logo=REACT&logoColor=FD92AF&label=&message=REACT&labelColor=333&color=FD92AF&style=for-the-badge)
 ![Webpack](https://img.shields.io/static/v1?logo=webpack&logoColor=FD92AF&label=&message=WEBPACK&labelColor=333&color=FD92AF&style=for-the-badge)
