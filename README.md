@@ -23,7 +23,7 @@ I'm a web developer by trade, with a passion for front end programming. I've bee
 ![More skills available](https://img.shields.io/static/v1?label=&message=and%20more...%20%28lets%20talk%29&labelColor=333&color=FD92AF&style=for-the-badge)-->
 ### What is she currently studying?
 ![Studying React](https://img.shields.io/static/v1?logo=react&logoColor=FD92AF&label=&message=REACT&labelColor=333&color=FD92AF&style=for-the-badge)
-![Studying Gatsby](https://img.shields.io/static/v1?logo=GATSBY&logoColor=FD92AF&label=&message=GATSBY&labelColor=333&color=FD92AF&style=for-the-badge)
+![Studying Netlify](https://img.shields.io/static/v1?logo=netlify&logoColor=FD92AF&label=&message=NETLIFY&labelColor=333&color=FD92AF&style=for-the-badge)
  
 ### What else do I need to know?
 <img src="https://media.giphy.com/media/B4OVvY3CVNN0Q/giphy.gif" width="275px">
