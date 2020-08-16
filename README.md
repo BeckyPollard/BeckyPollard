@@ -16,7 +16,11 @@ I've been a web developer by trade since 2018, with a passion for front-end prog
 
 ### What am I currently studying?
 ![Studying React](https://img.shields.io/static/v1?logo=react&logoColor=40C463&label=&message=REACT&labelColor=333&color=40C463&style=for-the-badge)
+![Webpack](https://img.shields.io/static/v1?logo=webpack&logoColor=40C463&label=&message=WEBPACK&labelColor=333&color=40C463&style=for-the-badge)
 ![Studying Netlify](https://img.shields.io/static/v1?logo=netlify&logoColor=40C463&label=&message=NETLIFY&labelColor=333&color=40C463&style=for-the-badge)
+
+### My upcoming study list?
+![TypeScript](https://img.shields.io/static/v1?logo=typescript&logoColor=9BE9A8&label=&message=TYPESCRIPT&labelColor=333&color=9BE9A8&style=for-the-badge)
  
 ### What do I want you to know?
 <img src="https://media.giphy.com/media/B4OVvY3CVNN0Q/giphy.gif" alt="Bob Ross: Talent is a pursued interest. Anything that you're willing to practice, you can do." width="275px">
