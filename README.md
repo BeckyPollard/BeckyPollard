@@ -14,6 +14,9 @@ Hi! I've been a web developer since 2018, with a passion for front-end programmi
 ![Webpack](https://img.shields.io/static/v1?logo=webpack&logoColor=9BE9A8&label=&message=WEBPACK&labelColor=333&color=9BE9A8&style=for-the-badge)
 ![GIT](https://img.shields.io/static/v1?logo=GIT&logoColor=9BE9A8&label=&message=GIT&labelColor=333&color=9BE9A8&style=for-the-badge)
 
+![PHOTOSHOP](https://img.shields.io/static/v1?logo=ADOBE&logoColor=9BE9A8&label=&message=PHOTOSHOP&labelColor=333&color=9BE9A8&style=for-the-badge)
+![ILLUSTRATOR](https://img.shields.io/static/v1?logo=ADOBE&logoColor=9BE9A8&label=&message=ILLUSTRATOR&labelColor=333&color=9BE9A8&style=for-the-badge)
+
 ### Currently studying
 ![Studying React](https://img.shields.io/static/v1?logo=react&logoColor=40C463&label=&message=REACT&labelColor=333&color=40C463&style=for-the-badge)
 ![Webpack](https://img.shields.io/static/v1?logo=webpack&logoColor=40C463&label=&message=WEBPACK&labelColor=333&color=40C463&style=for-the-badge)
