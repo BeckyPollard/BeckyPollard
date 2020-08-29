@@ -1,7 +1,10 @@
 # Hello, I'm Becky! ![Becky Pollard is available to hire](https://img.shields.io/static/v1?label=⭐️&message=CURRENTLY%20AVAILABLE%20FOR%20HIRE%20⭐️&labelColor=40c463&color=40c463)
 
-### Who am I?
 Hi! I've been a web developer since 2018, with a passion for front-end programming. I love action/fantasy/role-playing games, am an enthusiast about many topics of thanatology, an advocate for the benefits of a good night's sleep, and a friend with a flair for making tech feel human.
+
+## Let's talk
+- Twitter: [@BeckyIRL](https://twitter.com/BeckyIRL)
+- Personal site: [BeckyPollard.com](https://beckypollard.com)
 
 ## Skills
 ![HTML](https://img.shields.io/static/v1?logo=html5&logoColor=9BE9A8&label=&message=HTML5&labelColor=333&color=9BE9A8&style=for-the-badge)
