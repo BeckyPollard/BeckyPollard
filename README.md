@@ -4,8 +4,7 @@ I'm a driven programmer with a focus on frontend web development. Coding and tec
 
 Aside from coding, I love action/fantasy/role-playing games, am an enthusiast about many topics of thanatology, an advocate for the benefits of a good night's sleep, and a friend with a flair for making tech feel human.
 
-## Let's talk
-- [Contact me](https://becky.dev/contact)
+[Let's chat!](https://becky.dev/contact)
 
 ## Skills
 ![HTML](https://img.shields.io/static/v1?logo=html5&logoColor=9BE9A8&label=&message=HTML5&labelColor=333&color=9BE9A8&style=for-the-badge)
