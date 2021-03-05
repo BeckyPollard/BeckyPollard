@@ -19,10 +19,10 @@ Aside from coding, I love action/fantasy/role-playing games, am an enthusiast ab
 
 ![PHOTOSHOP](https://img.shields.io/static/v1?logo=ADOBE&logoColor=9BE9A8&label=&message=PHOTOSHOP&labelColor=333&color=9BE9A8&style=for-the-badge)
 ![ILLUSTRATOR](https://img.shields.io/static/v1?logo=ADOBE&logoColor=9BE9A8&label=&message=ILLUSTRATOR&labelColor=333&color=9BE9A8&style=for-the-badge)
+![Studying Netlify](https://img.shields.io/static/v1?logo=netlify&logoColor=9BE9A8&label=&message=NETLIFY&labelColor=333&color=9BE9A8&style=for-the-badge)
 
 ### Currently studying
 ![Studying React](https://img.shields.io/static/v1?logo=react&logoColor=40C463&label=&message=REACT&labelColor=333&color=40C463&style=for-the-badge)
-![Studying Netlify](https://img.shields.io/static/v1?logo=netlify&logoColor=40C463&label=&message=NETLIFY&labelColor=333&color=40C463&style=for-the-badge)
 
 ### Study list
 ![TypeScript](https://img.shields.io/static/v1?logo=typescript&logoColor=9BE9A8&label=&message=TYPESCRIPT&labelColor=333&color=9BE9A8&style=for-the-badge)
