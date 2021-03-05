@@ -1,4 +1,4 @@
-# Hello, I'm Becky! ![Becky Pollard is available to hire](https://img.shields.io/static/v1?label=⭐️&message=CURRENTLY%20AVAILABLE%20FOR%20HIRE%20⭐️&labelColor=40c463&color=40c463)
+# Hello, I'm Becky!
 
 I'm a driven programmer with a focus on frontend web development. Coding and technology brings me joy, and I love sharing that joy with by empowering others through knowledge sharing and mentoring. I have a history of clean, well documented, and maintainable code. I'm always striving to improve my knowledge, and am excited to continue growing as a developer.
 
