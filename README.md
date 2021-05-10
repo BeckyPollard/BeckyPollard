@@ -1,10 +1,6 @@
 
 # Hello, I'm Becky! 💀🌸
 
-I'm a frontend web programmer. Coding and technology brings me joy, and I love sharing that joy with by empowering others through knowledge sharing and mentoring. I have a history of clean, well documented, and maintainable code. I'm always striving to improve my knowledge, and am excited to continue growing as a developer.
-
-Aside from coding, I love action/fantasy/role-playing games, am an enthusiast about many topics of thanatology, an advocate for the benefits of a good night's sleep, and a friend with a flair for making tech feel human. I'm also pretty good at collecting sweet memes.
-
 [Let's chat!](https://becky.dev/contact)
 
 ## Skills
