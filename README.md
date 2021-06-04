@@ -30,14 +30,16 @@
 <br>
 <br>
 ## Music I Listen To While Coding
+_I need music that isn't distracting, boring, or full of lyrics._
+_Bonus if I can dance to it._
 
-| Music | Link                     |
+| Music |                          |
 | ----- | ------------------------ |
-| <a title='My coding focus playlist' href="https://open.spotify.com/playlist/60JHsizLsTsDiBOyo0Xrna"><img src="https://i.scdn.co/image/ab67706c0000bebbb99e91f922a4697e65b773c0" width='100px'></a> | **[Coding Tunes Playlist](https://open.spotify.com/playlist/60JHsizLsTsDiBOyo0Xrna)**<br>_A mix of ambient, videogame, electronic, and vaporwave tracks 99% without lyrics for focus._<br>[Spotify](https://open.spotify.com/playlist/60JHsizLsTsDiBOyo0Xrna)
-| <a title='Artist: MindSpring Memories' href="https://mindspringmemories.bandcamp.com/"><img src="https://f4.bcbits.com/img/a2861092947_16.jpg" width='100px'></a> | **[MindSpring Memories](https://mindspringmemories.bandcamp.com/)**<br>_Vaporwave/Slushwave/Plunderphonics by Angel Marcloid. Great ambient music for focus and feeling calm._<br>[Bandcamp](https://mindspringmemories.bandcamp.com/) & [Spotify](https://open.spotify.com/artist/1dAnRR4DknhrKRSITF8xSr)
-| <a title='Artist: Dance With The Dead' href="https://dancewiththedead.bandcamp.com/"><img src="https://f4.bcbits.com/img/a0531085253_2.jpg" width='100px'></a> | **[Dance With The Dead](https://dancewiththedead.bandcamp.com/)**<br>_‘80s horror film inspired synth/metal instrumentals._<br>[Bandcamp](https://dancewiththedead.bandcamp.com/) & [Spotify](https://open.spotify.com/artist/2KtnZQwMQJN3uyI8eHZRvm)
+| <a title='My coding focus playlist' href="https://open.spotify.com/playlist/60JHsizLsTsDiBOyo0Xrna"><img src="https://i.scdn.co/image/ab67706c0000bebbb99e91f922a4697e65b773c0" width='100px'></a> | **[Coding Tunes Playlist](https://open.spotify.com/playlist/60JHsizLsTsDiBOyo0Xrna)**<br>_A mix of ambient, videogame, electronic, and vaporwave tracks 99% without lyrics for focus._<br>→ [Spotify](https://open.spotify.com/playlist/60JHsizLsTsDiBOyo0Xrna)
+| <a title='Artist: MindSpring Memories' href="https://mindspringmemories.bandcamp.com/"><img src="https://f4.bcbits.com/img/a2861092947_16.jpg" width='100px'></a> | **[MindSpring Memories](https://mindspringmemories.bandcamp.com/)**<br>_Vaporwave/Slushwave/Plunderphonics by Angel Marcloid. Great ambient music for focus and feeling calm._<br>→ [Bandcamp](https://mindspringmemories.bandcamp.com/) & [Spotify](https://open.spotify.com/artist/1dAnRR4DknhrKRSITF8xSr)
+| <a title='Artist: Dance With The Dead' href="https://dancewiththedead.bandcamp.com/"><img src="https://f4.bcbits.com/img/a0531085253_2.jpg" width='100px'></a> | **[Dance With The Dead](https://dancewiththedead.bandcamp.com/)**<br>_‘80s horror film inspired synth/metal instrumentals._<br>→ [Bandcamp](https://dancewiththedead.bandcamp.com/) & [Spotify](https://open.spotify.com/artist/2KtnZQwMQJN3uyI8eHZRvm)
 <br>
 
 ## Advice
 <a href="https://www.youtube.com/watch?v=_CpdwTcvBU8"><img src="https://media.giphy.com/media/B4OVvY3CVNN0Q/giphy.gif" alt="Bob Ross: Talent is a pursued interest. Anything that you're willing to practice, you can do." width="275px"></a>
-> Bob Ross: 'Talent is a pursued interest. Anything that you're willing to practice, you can do.'
+> Bob Ross: _'Talent is a pursued interest. Anything that you're willing to practice, you can do.'_
