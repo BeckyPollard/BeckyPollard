@@ -26,7 +26,7 @@
 ![Webpack](https://img.shields.io/static/v1?logo=webpack&logoColor=FFFFFF&label=&message=WEBPACK&labelColor=0056b3&color=006DD1&style=for-the-badge)
 ![Docker](https://img.shields.io/static/v1?logo=docker&logoColor=FFFFFF&label=&message=DOCKER&labelColor=0056b3&color=006DD1&style=for-the-badge)
  
-**_[View my Résumé](becky.dev/resume)_**
+**_[View my Résumé](https://becky.dev/resume)_**
 <br>
 <br>
 ## Music I Listen To While Coding
