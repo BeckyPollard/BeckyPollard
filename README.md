@@ -1,7 +1,12 @@
 
-# Hello, I'm Becky! 💀🌸
+## Music I Listen To While Coding
 
-[Let's chat!](https://becky.dev/contact)
+| Music | Link                     |
+| ----- | ------------------------ |
+| <a title='My coding focus playlist' href="https://open.spotify.com/playlist/60JHsizLsTsDiBOyo0Xrna"><img src="https://i.scdn.co/image/ab67706c0000bebbb99e91f922a4697e65b773c0" width='100px'></a> | **[Coding Tunes Playlist](https://open.spotify.com/playlist/60JHsizLsTsDiBOyo0Xrna)**<br>_A mix of ambient, videogame, electronic, and vaporwave tracks 99% without lyrics for focus._<br>[Spotify](https://open.spotify.com/playlist/60JHsizLsTsDiBOyo0Xrna)
+| <a title='Artist: MindSpring Memories' href="https://mindspringmemories.bandcamp.com/"><img src="https://f4.bcbits.com/img/a2861092947_16.jpg" width='100px'></a> | **[MindSpring Memories](https://mindspringmemories.bandcamp.com/)**<br>_Vaporwave/Slushwave/Plunderphonics by Angel Marcloid. Great ambient music for focus and feeling calm._<br>[Bandcamp](https://mindspringmemories.bandcamp.com/) & [Spotify](https://open.spotify.com/artist/1dAnRR4DknhrKRSITF8xSr)
+| <a title='Artist: Dance With The Dead' href="https://dancewiththedead.bandcamp.com/"><img src="https://f4.bcbits.com/img/a0531085253_2.jpg" width='100px'></a> | **[Dance With The Dead](https://dancewiththedead.bandcamp.com/)**<br>_‘80s horror film inspired synth/metal instrumentals._<br>[Bandcamp](https://dancewiththedead.bandcamp.com/) & [Spotify](https://open.spotify.com/artist/2KtnZQwMQJN3uyI8eHZRvm)
+
 
 ## Skills
 ![HTML](https://img.shields.io/static/v1?logo=html5&logoColor=FF91AF&label=&message=HTML5&labelColor=24292e&color=FF91AF&style=for-the-badge)
