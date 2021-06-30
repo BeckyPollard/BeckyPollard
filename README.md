@@ -41,5 +41,6 @@ _Bonus if I can dance to it._
 <br>
 
 ## Advice
-<a href="https://www.youtube.com/watch?v=_CpdwTcvBU8"><img src="https://media.giphy.com/media/B4OVvY3CVNN0Q/giphy.gif" alt="Bob Ross: Talent is a pursued interest. Anything that you're willing to practice, you can do." width="275px"></a>
-> Bob Ross: _'Talent is a pursued interest. Anything that you're willing to practice, you can do.'_
+<a href="https://youtu.be/GARWowi0QXI?t=766"><img src="https://media.giphy.com/media/B4OVvY3CVNN0Q/giphy.gif" alt="Bob Ross: Talent is a pursued interest. Anything that you're willing to practice, you can do." width="275px"></a>
+> **'Talent is a pursued interest. Anything that you're willing to practice, you can do.'**<br>
+>   — Bob Ross [The Joy Of Painting: Season 2 Episode 1](https://youtu.be/GARWowi0QXI?t=766)
