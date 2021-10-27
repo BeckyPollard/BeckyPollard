@@ -14,16 +14,17 @@ I'm a software developer currently part of the team at [Bad Gateway](https://bad
 ![jQUERY](https://img.shields.io/static/v1?logo=jquery&logoColor=FFFFFF&label=&message=jQUERY&labelColor=0056b3&color=006DD1&style=for-the-badge)
 ![REACT](https://img.shields.io/static/v1?logo=REACT&logoColor=FFFFFF&label=&message=REACT&labelColor=0056b3&color=006DD1&style=for-the-badge)
 
-![Webpack](https://img.shields.io/static/v1?logo=webpack&logoColor=FFFFFF&label=&message=WEBPACK&labelColor=0056b3&color=006DD1&style=for-the-badge)
+![WEBPACK](https://img.shields.io/static/v1?logo=webpack&logoColor=FFFFFF&label=&message=WEBPACK&labelColor=0056b3&color=006DD1&style=for-the-badge)
 ![GIT](https://img.shields.io/static/v1?logo=GIT&logoColor=FFFFFF&label=&message=GIT&labelColor=0056b3&color=006DD1&style=for-the-badge)
 ![PHOTOSHOP](https://img.shields.io/static/v1?logo=ADOBE&logoColor=FFFFFF&label=&message=PHOTOSHOP&labelColor=0056b3&color=006DD1&style=for-the-badge)
 ![ILLUSTRATOR](https://img.shields.io/static/v1?logo=ADOBE&logoColor=FFFFFF&label=&message=ILLUSTRATOR&labelColor=0056b3&color=006DD1&style=for-the-badge)
-![Studying Netlify](https://img.shields.io/static/v1?logo=netlify&logoColor=FFFFFF&label=&message=NETLIFY&labelColor=0056b3&color=006DD1&style=for-the-badge)
+![NETLIFY](https://img.shields.io/static/v1?logo=netlify&logoColor=FFFFFF&label=&message=NETLIFY&labelColor=0056b3&color=006DD1&style=for-the-badge)
+
+![TYPESCRIPT](https://img.shields.io/static/v1?logo=typescript&logoColor=FFFFFF&label=&message=TYPESCRIPT&labelColor=0056b3&color=006DD1&style=for-the-badge)
 
 ### Currently learning:
 ![Studying React](https://img.shields.io/static/v1?logo=REACT&logoColor=FFFFFF&label=&message=REACT&labelColor=0056b3&color=006DD1&style=for-the-badge)
 ![Studying TypeScript](https://img.shields.io/static/v1?logo=typescript&logoColor=FFFFFF&label=&message=TYPESCRIPT&labelColor=0056b3&color=006DD1&style=for-the-badge)
-![Studying Webpack](https://img.shields.io/static/v1?logo=webpack&logoColor=FFFFFF&label=&message=WEBPACK&labelColor=0056b3&color=006DD1&style=for-the-badge)
 
 ### Interested in learning more:
 ![Figma](https://img.shields.io/static/v1?logo=figma&logoColor=FFFFFF&label=&message=Figma&labelColor=0056b3&color=006DD1&style=for-the-badge)
