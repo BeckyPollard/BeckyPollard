@@ -1,11 +1,6 @@
-# Hello I'm Becky
+![Becky Pollard's GitHub](https://user-images.githubusercontent.com/52248161/171284069-0851cba6-55c4-44e0-8685-97bd9b71f9b4.png)
+<p align="center">🌸 Hello! I'm Becky, a software developer currently part of the team at <a href='https://badgateway.net/'>Bad Gateway</a> 🌸<br></p><br>
 
-🤖 🪦 🌸 💀
-<br>
-<br>
-I'm a software developer currently part of the team at [Bad Gateway](https://badgateway.net/).
-<br>
-<br>
 ## Programming Skills:
 ![HTML](https://img.shields.io/static/v1?logo=html5&logoColor=FFFFFF&label=&message=HTML5&labelColor=0056b3&color=006DD1&style=for-the-badge)
 ![CSS3](https://img.shields.io/static/v1?logo=css3&logoColor=FFFFFF&label=&message=CSS3&labelColor=0056b3&color=006DD1&style=for-the-badge)
@@ -30,10 +25,9 @@ I'm a software developer currently part of the team at [Bad Gateway](https://bad
 ![Figma](https://img.shields.io/static/v1?logo=figma&logoColor=FFFFFF&label=&message=Figma&labelColor=0056b3&color=006DD1&style=for-the-badge)
 ![MySQL](https://img.shields.io/static/v1?logo=mysql&logoColor=FFFFFF&label=&message=MySQL&labelColor=0056b3&color=006DD1&style=for-the-badge)
 ![GraphQL](https://img.shields.io/static/v1?logo=GraphQL&logoColor=FFFFFF&label=&message=GraphQL&labelColor=0056b3&color=006DD1&style=for-the-badge)
- 
-**_[View my Résumé](https://becky.dev/resume)_**
-<br>
-<br>
+<br><br><br>
+→ **_[View my Résumé](https://becky.dev/resume)_** ⭐️
+<br><br>
 ## Music I Listen To While Working
 _I need music to code to that isn't distracting, boring, or full of lyrics._
 
