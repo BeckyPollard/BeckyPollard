@@ -20,11 +20,11 @@
 ### Currently learning:
 ![Studying React](https://img.shields.io/static/v1?logo=REACT&logoColor=FFFFFF&label=&message=REACT&labelColor=0056b3&color=006DD1&style=for-the-badge)
 ![Studying TypeScript](https://img.shields.io/static/v1?logo=typescript&logoColor=FFFFFF&label=&message=TYPESCRIPT&labelColor=0056b3&color=006DD1&style=for-the-badge)
+![GraphQL](https://img.shields.io/static/v1?logo=GraphQL&logoColor=FFFFFF&label=&message=GraphQL&labelColor=0056b3&color=006DD1&style=for-the-badge)
 
 ### Interested in learning more:
 ![Figma](https://img.shields.io/static/v1?logo=figma&logoColor=FFFFFF&label=&message=Figma&labelColor=0056b3&color=006DD1&style=for-the-badge)
 ![MySQL](https://img.shields.io/static/v1?logo=mysql&logoColor=FFFFFF&label=&message=MySQL&labelColor=0056b3&color=006DD1&style=for-the-badge)
-![GraphQL](https://img.shields.io/static/v1?logo=GraphQL&logoColor=FFFFFF&label=&message=GraphQL&labelColor=0056b3&color=006DD1&style=for-the-badge)
 <br><br><br>
 → **_[View my Résumé](https://becky.dev/resume)_** ⭐️
 <br><br>
