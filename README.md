@@ -1,4 +1,4 @@
-![BeckyPollard's GitHub](https://user-images.githubusercontent.com/52248161/171285528-6fc02910-3259-4777-b165-35bb310e3137.png)
+![BeckyPollard's GitHub](https://user-images.githubusercontent.com/52248161/173162042-eceb6a10-0b14-46f6-b4cc-598a36639f73.png)
 <p align="center">🌸 Hello! I'm Becky, a front-end focused software developer currently part of the team at <a href='https://badgateway.net/'>Bad Gateway</a> 🌸<br></p><br>
 
 ## Programming Skills:
