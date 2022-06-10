@@ -1,5 +1,5 @@
 ![BeckyPollard's GitHub](https://user-images.githubusercontent.com/52248161/171285528-6fc02910-3259-4777-b165-35bb310e3137.png)
-<p align="center">🌸 Hello! I'm Becky, a software developer currently part of the team at <a href='https://badgateway.net/'>Bad Gateway</a> 🌸<br></p><br>
+<p align="center">🌸 Hello! I'm Becky, a front-end focused software developer currently part of the team at <a href='https://badgateway.net/'>Bad Gateway</a> 🌸<br></p><br>
 
 ## Programming Skills:
 ![HTML](https://img.shields.io/static/v1?logo=html5&logoColor=FFFFFF&label=&message=HTML5&labelColor=0056b3&color=006DD1&style=for-the-badge)
