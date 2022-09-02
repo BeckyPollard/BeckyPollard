@@ -1,5 +1,5 @@
 ![BeckyPollard's GitHub](https://user-images.githubusercontent.com/52248161/173162730-269a86f8-156a-4829-9a62-8df18a09585e.png)
-<p align="center">🌸 Hello! I'm Becky, a front-end focused software developer currently part of the team at <a href='https://badgateway.net/'>Bad Gateway</a> 🌸</p><br>
+<p align="center">🌸 Hello! I'm Becky, a front-end focused software developer currently part of the team at <a href='https://badgateway.net/'>Bad Gateway</a> 🌸</p>
 
 ## Programming Toolkit:
 ![HTML](https://img.shields.io/static/v1?logo=html5&logoColor=FFFFFF&label=&message=HTML5&labelColor=0056b3&color=006DD1&style=for-the-badge)
@@ -25,7 +25,7 @@
 ### Interested in learning more:
 ![Figma](https://img.shields.io/static/v1?logo=figma&logoColor=FFFFFF&label=&message=Figma&labelColor=0056b3&color=006DD1&style=for-the-badge)
 ![MySQL](https://img.shields.io/static/v1?logo=mysql&logoColor=FFFFFF&label=&message=MySQL&labelColor=0056b3&color=006DD1&style=for-the-badge)
-![GraphQL](https://img.shields.io/static/v1?logo=GraphQL&logoColor=FFFFFF&label=&message=GraphQL&labelColor=0056b3&color=006DD1&style=for-the-badge)
+![App Development](https://img.shields.io/static/v1?logo=Android&logoColor=FFFFFF&label=&message=App%20Development&labelColor=0056b3&color=006DD1&style=for-the-badge)
 <br><br><br>
 → **_[View my Résumé](https://becky.dev/resume)_** ⭐️
 <br><br>
