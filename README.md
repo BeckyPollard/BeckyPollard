@@ -1,5 +1,5 @@
 ![BeckyPollard's GitHub](https://user-images.githubusercontent.com/52248161/173162730-269a86f8-156a-4829-9a62-8df18a09585e.png)
-<p align="center">🌸 Hello! I'm Becky, a Software maker, front-end developer, programmer, or whatever. 🌸<br>🌸 I'm happily part of the team at <a href='https://badgateway.net/'>Bad Gateway</a>! 🌸</p>
+<p align="center">🌸 Hello! I'm Becky, a software maker, front-end developer, programmer, or whatever. 🌸<br>🌸 I'm happily part of the team at <a href='https://badgateway.net/'>Bad Gateway</a>! 🌸</p>
 
 ## Programming Toolkit:
 ![HTML](https://img.shields.io/static/v1?logo=html5&logoColor=FFFFFF&label=&message=HTML5&labelColor=0056b3&color=006DD1&style=for-the-badge)
