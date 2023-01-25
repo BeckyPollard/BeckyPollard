@@ -1,5 +1,7 @@
 ![BeckyPollard's GitHub](https://user-images.githubusercontent.com/52248161/173162730-269a86f8-156a-4829-9a62-8df18a09585e.png)
-<p align="center">🌸 Hello! I'm Becky, a software maker, front-end developer, programmer, or whatever. 🌸<br>⭐️ <a href='https://becky.dev/contact'>I'm available for hire</a>! ⭐️</p>
+<p align="center">🌸 Hello! I'm Becky, a software maker, front-end developer, programmer, or whatever. 🌸<br>⭐️ <a href='https://becky.dev/contact'>I'm available for hire<!/a> ⭐️</p>
+  
+<p align="right">→ → <a href='https://becky.dev/resume'>View my Résumé</a></p>
 
 ## Programming Toolkit:
 ![HTML](https://img.shields.io/static/v1?logo=html5&logoColor=FFFFFF&label=&message=HTML5&labelColor=0056b3&color=006DD1&style=for-the-badge)
@@ -25,8 +27,6 @@
 ![Figma](https://img.shields.io/static/v1?logo=figma&logoColor=FFFFFF&label=&message=Figma&labelColor=0056b3&color=006DD1&style=for-the-badge)
 ![MySQL](https://img.shields.io/static/v1?logo=mysql&logoColor=FFFFFF&label=&message=MySQL&labelColor=0056b3&color=006DD1&style=for-the-badge)
 ![App Development](https://img.shields.io/static/v1?logo=Android&logoColor=FFFFFF&label=&message=App%20Development&labelColor=0056b3&color=006DD1&style=for-the-badge)
-<br><br><br>
-→ **_[View my Résumé](https://becky.dev/resume)_** ⭐️
 <br><br>
 ## Music I Listen To While Working
 _I need music to code to that isn't distracting, boring, or full of lyrics._
