@@ -48,7 +48,7 @@ _I need music to code to that isn't distracting, boring, or full of lyrics._
 <br><br><br>
 
 
-------
+
 <div align="center"> 
     <sup>Page views</sup><br>
     <img width='150px' src="https://profile-counter.glitch.me/beckypollard/count.svg" alt='Page views total'/>
