@@ -45,4 +45,11 @@ _I need music to code to that isn't distracting, boring, or full of lyrics._
 > **'Talent is a pursued interest. Anything that you're willing to practice, you can do.'**<br>
 >   — Bob Ross [The Joy Of Painting: Season 2 Episode 1](https://youtu.be/GARWowi0QXI?t=766)
 
+<br><br><br>
 
+
+------
+<div align="center"> 
+    <sup>Page views</sup><br>
+    <img width='150px' src="https://profile-counter.glitch.me/beckypollard/count.svg" alt='Page views total'/>
+</div>
