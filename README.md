@@ -19,9 +19,10 @@
 
 ![TYPESCRIPT](https://img.shields.io/static/v1?logo=typescript&logoColor=FFFFFF&label=&message=TYPESCRIPT&labelColor=0056b3&color=006DD1&style=for-the-badge)
 
-### Currently learning:
+### Currently learning more about:
 ![Studying React](https://img.shields.io/static/v1?logo=REACT&logoColor=FFFFFF&label=&message=REACT&labelColor=0056b3&color=006DD1&style=for-the-badge)
 ![Studying TypeScript](https://img.shields.io/static/v1?logo=typescript&logoColor=FFFFFF&label=&message=TYPESCRIPT&labelColor=0056b3&color=006DD1&style=for-the-badge)
+![Studying Eleventy](https://img.shields.io/static/v1?logo=eleventy&logoColor=FFFFFF&label=&message=ELEVENTY&labelColor=0056b3&color=006DD1&style=for-the-badge)
 
 ### Interested in learning more:
 ![Figma](https://img.shields.io/static/v1?logo=figma&logoColor=FFFFFF&label=&message=Figma&labelColor=0056b3&color=006DD1&style=for-the-badge)
@@ -35,7 +36,7 @@ _I need music to code to that isn't distracting, boring, or full of lyrics._
 | ----- | ------------------------ |
 | <a title='My coding focus playlist' href="https://open.spotify.com/playlist/4xyUh0NSeaIwkVkMkhdT0n"><img src="https://user-images.githubusercontent.com/52248161/153249235-866296e6-f62d-49a2-92c5-9ba0ea2e3d4d.jpg" width='100px'></a> | **Becky's [Coding Tunes Playlist](https://open.spotify.com/playlist/4xyUh0NSeaIwkVkMkhdT0n)**<br>_A mix of ambient, videogame, electronic, and vaporwave tracks 99% without lyrics for focus._<br>→ [Spotify](https://open.spotify.com/playlist/4xyUh0NSeaIwkVkMkhdT0n) |
 | <a title='My coding (wizard) focus playlist' href="https://open.spotify.com/playlist/4d8XIbP8SJt04YZThviIzj"><img src="https://user-images.githubusercontent.com/52248161/153249468-72d5d9a2-004f-4a3b-ae18-fb5648d039fd.jpg" width='100px'></a> | **Becky's [Coding Wizard Tunes Playlist](https://open.spotify.com/playlist/4d8XIbP8SJt04YZThviIzj)**<br>_Collection of dungeon synth, ambient, and misc tunes that makes you feel like a web wizard._<br>→ [Spotify](https://open.spotify.com/playlist/4d8XIbP8SJt04YZThviIzj) |
-| <a title='Artist: Dance With The Dead' href="https://dancewiththedead.bandcamp.com/"><img src="https://f4.bcbits.com/img/a1386566724_2.jpg" width='100px'></a> | **[Dance With The Dead](https://dancewiththedead.bandcamp.com/)**<br>_‘80s-horror-inspired synth/metal instrumentals._<br>→ [Bandcamp](https://dancewiththedead.bandcamp.com/) & [Spotify](https://open.spotify.com/artist/2KtnZQwMQJN3uyI8eHZRvm) & [TIDAL](https://tidal.com/browse/artist/5463183) |
+| <a title='Artist: Quest Master' href="https://questmaster.bandcamp.com/"><img src="https://f4.bcbits.com/img/a3998820157_16.jpg" width='100px'></a> | **[Quest Master](https://questmaster.bandcamp.com/)**<br>_Fantasy synthesizer music from Australia._<br>→ [Bandcamp](https://questmaster.bandcamp.com/) & [Spotify](https://open.spotify.com/artist/0gv0gpgHfyolSrapq8d4Kp) |
 | <a title='Artist: MindSpring Memories' href="https://mindspringmemories.bandcamp.com/"><img src="https://f4.bcbits.com/img/a2861092947_16.jpg" width='100px'></a> | **[MindSpring Memories](https://mindspringmemories.bandcamp.com/)**<br>_Vaporwave/Slushwave/Plunderphonics by Angel Marcloid. Great ambient music for focus and feeling calm._<br>→ [Bandcamp](https://mindspringmemories.bandcamp.com/) & [Spotify](https://open.spotify.com/artist/1dAnRR4DknhrKRSITF8xSr) & [TIDAL](https://tidal.com/browse/artist/9434092) |
 | <a title='Artist: Equip' href='https://equip100p.bandcamp.com/'><img src='https://f4.bcbits.com/img/a0937333337_10.jpg' width='100px'></a> | **[Equip](https://equip100p.bandcamp.com/)**<br>_Dreamy, ethereal vaporwave music influenced by role-playing games of the 16 bit era._<br>→ [Bandcamp](https://equip100p.bandcamp.com/) & [Spotify](https://open.spotify.com/artist/3IOhNbmcUbaMuJkmyfkfE0) & [TIDAL](https://tidal.com/browse/album/164460971)
 <br>
