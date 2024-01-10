@@ -45,12 +45,3 @@ _I need music to code to that isn't distracting, boring, or full of lyrics._
 <a href="https://youtu.be/GARWowi0QXI?t=766"><img src="https://user-images.githubusercontent.com/52248161/173162491-45d19907-dfa6-4a27-abb1-1df6518482d9.gif" alt="Bob Ross: Talent is a pursued interest. Anything that you're willing to practice, you can do." width="275px"></a>
 > **'Talent is a pursued interest. Anything that you're willing to practice, you can do.'**<br>
 >   — Bob Ross [The Joy Of Painting: Season 2 Episode 1](https://youtu.be/GARWowi0QXI?t=766)
-
-<br><br><br>
-
-
-
-<div align="center"> 
-    <sup>Page views</sup><br>
-    <img width='150px' src="https://profile-counter.glitch.me/beckypollard/count.svg" alt='Page views total'/>
-</div>
