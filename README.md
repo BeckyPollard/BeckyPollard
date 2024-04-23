@@ -1,5 +1,5 @@
 ![BeckyPollard's GitHub](https://user-images.githubusercontent.com/52248161/173162730-269a86f8-156a-4829-9a62-8df18a09585e.png)
-<p align="center">🌸 Hello! I'm Becky, a software maker, front-end developer, programmer, or whatever. 🌸<br>⭐️ <a href='https://becky.dev/contact'>I'm available for hire<!/a> ⭐️</p>
+<p align="center">🌸 Hello! I'm Becky, a software maker, front-end developer, programmer, or whatever. 🌸</p>
   
 <p align="right">→ → <a href='https://becky.dev/resume'>View my Résumé</a></p>
 
@@ -9,20 +9,16 @@
 ![SCSS](https://img.shields.io/static/v1?logo=SASS&logoColor=FFFFFF&label=&message=SCSS&labelColor=0056b3&color=006DD1&style=for-the-badge)
 ![JAVASCRIPT](https://img.shields.io/static/v1?logo=JAVASCRIPT&logoColor=FFFFFF&label=&message=JAVASCRIPT&labelColor=0056b3&color=006DD1&style=for-the-badge)
 ![jQUERY](https://img.shields.io/static/v1?logo=jquery&logoColor=FFFFFF&label=&message=jQUERY&labelColor=0056b3&color=006DD1&style=for-the-badge)
-![REACT](https://img.shields.io/static/v1?logo=REACT&logoColor=FFFFFF&label=&message=REACT&labelColor=0056b3&color=006DD1&style=for-the-badge)
-
+![REACT](https://img.shields.io/static/v1?logo=REACT&logoColor=FFFFFF&label=&message=REACT&labelColor=0056b3&color=006DD1&style=for-the-badge)<br>
+![TYPESCRIPT](https://img.shields.io/static/v1?logo=typescript&logoColor=FFFFFF&label=&message=TYPESCRIPT&labelColor=0056b3&color=006DD1&style=for-the-badge)
 ![WEBPACK](https://img.shields.io/static/v1?logo=webpack&logoColor=FFFFFF&label=&message=WEBPACK&labelColor=0056b3&color=006DD1&style=for-the-badge)
 ![GIT](https://img.shields.io/static/v1?logo=GIT&logoColor=FFFFFF&label=&message=GIT&labelColor=0056b3&color=006DD1&style=for-the-badge)
 ![PHOTOSHOP](https://img.shields.io/static/v1?logo=ADOBE&logoColor=FFFFFF&label=&message=PHOTOSHOP&labelColor=0056b3&color=006DD1&style=for-the-badge)
 ![ILLUSTRATOR](https://img.shields.io/static/v1?logo=ADOBE&logoColor=FFFFFF&label=&message=ILLUSTRATOR&labelColor=0056b3&color=006DD1&style=for-the-badge)
 ![NETLIFY](https://img.shields.io/static/v1?logo=netlify&logoColor=FFFFFF&label=&message=NETLIFY&labelColor=0056b3&color=006DD1&style=for-the-badge)
 
-![TYPESCRIPT](https://img.shields.io/static/v1?logo=typescript&logoColor=FFFFFF&label=&message=TYPESCRIPT&labelColor=0056b3&color=006DD1&style=for-the-badge)
-
 ### Currently learning more about:
-![Studying React](https://img.shields.io/static/v1?logo=REACT&logoColor=FFFFFF&label=&message=REACT&labelColor=0056b3&color=006DD1&style=for-the-badge)
-![Studying TypeScript](https://img.shields.io/static/v1?logo=typescript&logoColor=FFFFFF&label=&message=TYPESCRIPT&labelColor=0056b3&color=006DD1&style=for-the-badge)
-![Studying Eleventy](https://img.shields.io/static/v1?logo=eleventy&logoColor=FFFFFF&label=&message=ELEVENTY&labelColor=0056b3&color=006DD1&style=for-the-badge)
+![Studying Algebra](https://img.shields.io/static/v1?logo=khanacademy&logoColor=FFFFFF&label=&message=Algebra&labelColor=0056b3&color=006DD1&style=for-the-badge)
 
 ### Interested in learning more:
 ![Figma](https://img.shields.io/static/v1?logo=figma&logoColor=FFFFFF&label=&message=Figma&labelColor=0056b3&color=006DD1&style=for-the-badge)
