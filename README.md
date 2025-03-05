@@ -1,29 +1,32 @@
 ![BeckyPollard's GitHub](https://user-images.githubusercontent.com/52248161/173162730-269a86f8-156a-4829-9a62-8df18a09585e.png)
-<p align="center">🌸 Hello! I'm Becky, a software maker, front-end developer, programmer, or whatever. 🌸</p>
+<p align="center">🩵 Hello! I'm Becky, a software maker, front-end developer, programmer, or whatever. 💙</p>
   
 <!--<p align="right">→ → <a href='https://becky.dev/resume'>View my Résumé</a></p>-->
 
 ## Programming Toolkit:
-![HTML](https://img.shields.io/static/v1?logo=html5&logoColor=FFFFFF&label=&message=HTML5&labelColor=0056b3&color=006DD1&style=for-the-badge)
-![CSS3](https://img.shields.io/static/v1?logo=css3&logoColor=FFFFFF&label=&message=CSS3&labelColor=0056b3&color=006DD1&style=for-the-badge)
-![SCSS](https://img.shields.io/static/v1?logo=SASS&logoColor=FFFFFF&label=&message=SCSS&labelColor=0056b3&color=006DD1&style=for-the-badge)
-![JAVASCRIPT](https://img.shields.io/static/v1?logo=JAVASCRIPT&logoColor=FFFFFF&label=&message=JAVASCRIPT&labelColor=0056b3&color=006DD1&style=for-the-badge)
-![REACT](https://img.shields.io/static/v1?logo=REACT&logoColor=FFFFFF&label=&message=REACT&labelColor=0056b3&color=006DD1&style=for-the-badge)
-![GIT](https://img.shields.io/static/v1?logo=GIT&logoColor=FFFFFF&label=&message=GIT&labelColor=0056b3&color=006DD1&style=for-the-badge)<br>
-![TYPESCRIPT](https://img.shields.io/static/v1?logo=typescript&logoColor=FFFFFF&label=&message=TYPESCRIPT&labelColor=0056b3&color=006DD1&style=for-the-badge)
-![WEBPACK](https://img.shields.io/static/v1?logo=webpack&logoColor=FFFFFF&label=&message=WEBPACK&labelColor=0056b3&color=006DD1&style=for-the-badge)
-![PHOTOSHOP](https://img.shields.io/static/v1?logo=photopea&logoColor=FFFFFF&label=&message=PHOTOSHOP&labelColor=0056b3&color=006DD1&style=for-the-badge)
-![ILLUSTRATOR](https://img.shields.io/static/v1?logo=ADOBE&logoColor=FFFFFF&label=&message=ILLUSTRATOR&labelColor=0056b3&color=006DD1&style=for-the-badge)
-![NETLIFY](https://img.shields.io/static/v1?logo=netlify&logoColor=FFFFFF&label=&message=NETLIFY&labelColor=0056b3&color=006DD1&style=for-the-badge)
+![HTML](https://github.com/user-attachments/assets/645d9b53-8358-4b15-99f6-773e167d90bf)
+![CSS3](https://github.com/user-attachments/assets/c6c8dddb-7877-4608-9d08-edf3dcc16d21)
+![SCSS](https://github.com/user-attachments/assets/915c25d4-9329-41e7-ba1f-d7311a091324)
+![JavaScript](https://github.com/user-attachments/assets/ca6b02a6-5477-4909-88d7-1ec2944b91a6)
+![React](https://github.com/user-attachments/assets/0028ce4b-3e52-4e3c-b580-b6155d8b29b8)
+![Git](https://github.com/user-attachments/assets/df638072-41f3-41fb-9154-d5d6eb3d202c)<br>
+![Typescript](https://github.com/user-attachments/assets/8979b3f2-74e4-4bfb-a325-5437a6ebd341)
+![Webpack](https://github.com/user-attachments/assets/4cabb506-e1ee-459d-959d-db5d725f83f4)
+![Netlify](https://github.com/user-attachments/assets/26dee1ab-649b-4f40-807a-d2831cf7d46e)
+![Image Editing](https://github.com/user-attachments/assets/4c3499f8-b3d3-476f-ae8e-4f7939e84e4a)
+![SVG](https://github.com/user-attachments/assets/581f76f4-b911-48ad-a4bd-733a6f8e0d91)
 
 ### Currently learning about:
-![Studying Programming @ GBC](https://img.shields.io/static/v1?logo=&logoColor=FFFFFF&label=&message=Studying&nbsp;Programming&nbsp;@&nbsp;GBC&labelColor=0056b3&color=0056b3&style=for-the-badge)
+![GBC](https://github.com/user-attachments/assets/1148ac28-cf20-4b63-a167-af52346a31b9)
+
 
 ### Interested in learning more:
-![Figma](https://img.shields.io/static/v1?logo=figma&logoColor=FFFFFF&label=&message=Figma&labelColor=0056b3&color=006DD1&style=for-the-badge)
-![MySQL](https://img.shields.io/static/v1?logo=mysql&logoColor=FFFFFF&label=&message=MySQL&labelColor=0056b3&color=006DD1&style=for-the-badge)
-![App Development](https://img.shields.io/static/v1?logo=Android&logoColor=FFFFFF&label=&message=App%20Development&labelColor=0056b3&color=006DD1&style=for-the-badge)
-<br><br>
+![App Development](https://github.com/user-attachments/assets/0237d225-e648-4730-9cfd-9741dbd12278)
+![mySQL](https://github.com/user-attachments/assets/f8404ed2-2542-4310-b4ed-e300c9a111fa)
+![badge-15](https://github.com/user-attachments/assets/a989e947-9aa8-4a29-9541-76ce0d9fcca7)
+
+<br>
+
 ## Music I Listen To While Working
 _I need music to code to that isn't distracting, boring, or full of lyrics._
 
