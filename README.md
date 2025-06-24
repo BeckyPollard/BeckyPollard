@@ -2,6 +2,7 @@
 <p align="center">🩵 Hello! I'm Becky, a software maker, front-end developer, programmer, or whatever. 💙</p>
   
 <!--<p align="right">→ → <a href='https://becky.dev/resume'>View my Résumé</a></p>-->
+<p align="right">→ → <a href='https://becky.dev/'>becky.dev</a></p>
 
 ## Programming Toolkit:
 ![HTML](https://github.com/user-attachments/assets/645d9b53-8358-4b15-99f6-773e167d90bf)
@@ -18,11 +19,12 @@
 
 ### Currently learning about:
 ![GBC](https://github.com/user-attachments/assets/1148ac28-cf20-4b63-a167-af52346a31b9)
-
+![mySQL](https://github.com/user-attachments/assets/f8404ed2-2542-4310-b4ed-e300c9a111fa)
+![c#](https://github.com/user-attachments/assets/0d3beb34-33ef-4b6d-95a6-ef83512f9a69)
+![linux](https://github.com/user-attachments/assets/887c5b76-5028-4903-9332-16d64e50af9b)
 
 ### Interested in learning more:
 ![App Development](https://github.com/user-attachments/assets/0237d225-e648-4730-9cfd-9741dbd12278)
-![mySQL](https://github.com/user-attachments/assets/f8404ed2-2542-4310-b4ed-e300c9a111fa)
 ![Databases](https://github.com/user-attachments/assets/6738c01c-5880-480a-87ad-08c25fa735a3)
 
 <br>
