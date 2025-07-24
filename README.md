@@ -22,6 +22,7 @@
 ![mySQL](https://github.com/user-attachments/assets/f8404ed2-2542-4310-b4ed-e300c9a111fa)
 ![c#](https://github.com/user-attachments/assets/0d3beb34-33ef-4b6d-95a6-ef83512f9a69)
 ![linux](https://github.com/user-attachments/assets/887c5b76-5028-4903-9332-16d64e50af9b)
+![Typescript](https://github.com/user-attachments/assets/8979b3f2-74e4-4bfb-a325-5437a6ebd341)
 
 ### Interested in learning more:
 ![App Development](https://github.com/user-attachments/assets/0237d225-e648-4730-9cfd-9741dbd12278)
