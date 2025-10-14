@@ -18,11 +18,14 @@
 ![SVG](https://github.com/user-attachments/assets/581f76f4-b911-48ad-a4bd-733a6f8e0d91)
 
 ### Currently learning about:
-![GBC](https://github.com/user-attachments/assets/1148ac28-cf20-4b63-a167-af52346a31b9)
 ![mySQL](https://github.com/user-attachments/assets/f8404ed2-2542-4310-b4ed-e300c9a111fa)
+![postgresql](https://github.com/user-attachments/assets/97258ad7-652c-4066-9bf5-784d1464b541)
 ![c#](https://github.com/user-attachments/assets/0d3beb34-33ef-4b6d-95a6-ef83512f9a69)
-![linux](https://github.com/user-attachments/assets/887c5b76-5028-4903-9332-16d64e50af9b)
-![Typescript](https://github.com/user-attachments/assets/8979b3f2-74e4-4bfb-a325-5437a6ebd341)
+![ASP.NET](https://github.com/user-attachments/assets/fe104eb0-463d-4100-8958-75ce9973627e)
+![Typescript](https://github.com/user-attachments/assets/8979b3f2-74e4-4bfb-a325-5437a6ebd341)<br>
+![quality assurance and testing](https://github.com/user-attachments/assets/e313e996-5d67-457d-ae7a-ec25a2c8ca80)
+![badge-19](https://github.com/user-attachments/assets/be8af0c7-0dcf-4ea9-a8b9-040cbb130064)
+![GBC](https://github.com/user-attachments/assets/1148ac28-cf20-4b63-a167-af52346a31b9)
 
 ### Interested in learning more:
 ![App Development](https://github.com/user-attachments/assets/0237d225-e648-4730-9cfd-9741dbd12278)
