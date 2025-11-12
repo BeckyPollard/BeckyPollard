@@ -46,7 +46,13 @@ _I need music to code to that isn't distracting, boring, or full of lyrics._
 | <a title='Noise' href='https://www.youtube.com/embed/RqzGzwTY-6w?si=bs-qOXrHgy_MaNtl'><img src="https://github.com/user-attachments/assets/2ed48b2c-19fa-4ede-bb34-a210ce100889" width='100px'></a> | **[Noise](https://en.wikipedia.org/wiki/Colors_of_noise#Brownian_noise)**<br>_Sometimes even music is too much. Deep brownian noise will drown out the world._<br>→ [YouTube 8hrs](https://www.youtube.com/embed/RqzGzwTY-6w?si=bs-qOXrHgy_MaNtl)
 <br>
 
+## AI Usage Policy
+![I am not using AI here](https://github.com/user-attachments/assets/fdcb8330-4afd-4b1c-baab-a4d0988345dc)
 
+I do not use any AI for personal or educational coding at any stage of devleopment.<br>
+There is no code here generated or assisted by AI.<br>
+Enjoy.<br>
+<br>
 
 ## Advice
 <a href="https://youtu.be/GARWowi0QXI?t=766"><img src="https://user-images.githubusercontent.com/52248161/173162491-45d19907-dfa6-4a27-abb1-1df6518482d9.gif" alt="Bob Ross: Talent is a pursued interest. Anything that you're willing to practice, you can do." width="275px"></a>
