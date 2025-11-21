@@ -47,8 +47,7 @@ _I need music to code to that isn't distracting, boring, or full of lyrics._
 <br>
 
 ## AI Usage Policy
-I do not use any AI for personal or educational coding at any stage of devleopment.<br>
-There is no code here generated or assisted by AI.<br>
+I do not use any AI for personal or educational programming.<br>
 Enjoy.<br>
 <br>
 
